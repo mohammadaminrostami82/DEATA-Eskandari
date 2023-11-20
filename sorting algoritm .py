@@ -1,10 +1,13 @@
 import time
 
-# Record the starting time
-starting_time = time.time()
 
 # Create a list of numbers
 number_list = [11.6, -5, 45, -2.3, 66, -111, 123.5, 425 , 1425]
+
+
+# Record the starting time
+starting_time = time.time()
+
 count = len(number_list)
 
 # Implement the Bubble Sort algorithm to sort the list
